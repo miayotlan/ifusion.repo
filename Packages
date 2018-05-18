@@ -1,12 +1,14 @@
-Package: com.ifusion.org.dragonballios11
+Package: com.dragonball11.sirglide
+Name: Dragon Ball 11 
 Version: 1.0
-Section: Themes
-Maintainer:  <sam83guzman@hotmail.com>
-Author: Sirglide <sam83guzman@hotmail.com>
+Size: 4678250
 Architecture: iphoneos-arm
-Filename: ./debs/com.ifusion.org.dragonballios11-1.0.deb
-Size: 9437184
-MD5sum: 263AAE1E02E3EF3C2D38911922C37814
-Description: This is a theme for ios 11 requires Anemone. Tested on ios 11.1.2.
-Name: dragonballios11
-Depiction: http://ifusion.org/depictions/?p=com.ifusion.org.dragonballios11
+Description: An Awesome Dragon Ball Theme for iOS
+Maintainer: Sirglide <sir.glide.83@gmail.com>
+Author: SamGuzman <sir.glide.83@gmail.com>
+Section: Themes
+MD5sum:59386bf57a5d2d6094a41b2fa75796cb
+SHA1sum:10e19750b0d89f8cdb4811c1ed3da0e38e3618c3
+SHA256sum:688bdc40800a9056151e3aa80a4157476796c541e4dc0b4ec7ba2b9a7de64627
+Filename: debs//dragonball11.deb
+

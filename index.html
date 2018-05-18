@@ -1,37 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Ifusion Repo</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-</head>
-<body>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Sirglide's Repo</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-loading">
 
-<div class="container">
-	<h1><img src="CydiaIcon.png"> Ifusion Repository</h1>
-</div>
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-<div class="container">
-	<div class="well">
-		<p><span class="text-primary"><b>Ifusion Repo</span></b> is a Cydia repository for my Custom Themes & Future Tweaks.</p>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://ifusion.org">Add to Cydia</a>
-	</div>
-</div>
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+							<h1>Ifusion</h1>
+							<p>Official Cydia Repo</p>
+						</header>
+						<footer>
+							<ul class="icons">
+								<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https%3A%2F%2F((CHANGE TO YOUR REPO)).github.io" class="fa-plus">Add Repo</a></li>
+							</ul>
+						</footer>
+					</section>
 
-<div class="container">
-  <h3 id="wells" class="page-header">Hosted Packages</h3>
-</div>
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; sirglide</li>
+						</ul>
+					</footer>
 
-	<div class="panel panel-default">
-	  <div class="panel-heading">dragonballios11</div>
-	  <div class="panel-body">
-		Custom Dragon Ball Theme for ios 11.<br /><br />
-		<a class="btn btn-xs btn-default" href="depictions/?p=com.ifusion.org.dragonballios11">More info</a>
-	  </div>
-	</div>
-</div>
+			</div>
 
-</body>
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
 </html>
