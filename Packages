@@ -12,3 +12,16 @@ SHA1sum:10e19750b0d89f8cdb4811c1ed3da0e38e3618c3
 SHA256sum:688bdc40800a9056151e3aa80a4157476796c541e4dc0b4ec7ba2b9a7de64627
 Filename: debs//dragonball11.deb
 
+Package: com.goldengauntlet11.sirglide
+Name: Dragon Ball 11 
+Version: 1.0
+Size: 4678250
+Architecture: iphoneos-arm
+Description: An amazing theme Based on Marvel's Infinity Gauntlet for ios 11
+Maintainer: Sirglide <sir.glide.83@gmail.com>
+Author: SamGuzman <sir.glide.83@gmail.com>
+Section: Themes
+MD5sum:8e60390ecbf08a25a894936792a8b1ec
+SHA1sum:5c77c5e909ccc96d3d606bc55e7c6fce0e9ea960
+SHA256sum:cbd69157a695ab936e01bb86e35f26baf7bd15ebbe6c61482f91c21baac1a100
+Filename: debs//goldengauntlet11.deb
