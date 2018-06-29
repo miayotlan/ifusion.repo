@@ -29,13 +29,13 @@ Filename: debs//goldengauntlet11.deb
 Package: com.dragonballzeppelin.sirglide
 Name: Dragon Ball Zeppelin Pack 1 
 Version: 1.0
-Size: 509548
+Size: 509908
 Architecture: iphoneos-arm
 Description: An amazing Collection of Dragon Ball Zeppelin Logos
 Maintainer: Sirglide <sir.glide.83@gmail.com>
 Author: SamGuzman <sir.glide.83@gmail.com>
-Section: Tweaks
-MD5sum:67B9263B262D920071C5B9CA77A48521
-SHA1sum:DF03884662A129244BC6A84A4B5B130226028681
-SHA256sum:C58F555D13CDDC39869DBC67C51F5962F9681ACE8AE6320C10383EA6001D8982
+Section: Themes (Zeppelin)
+MD5sum:C19DD5215091797854F165EE379ECF02
+SHA1sum:E630CAC7A311D798C41506DBA7FCFBCB3C8B60B9
+SHA256sum:E00060B841BB08211D7691547FCC689ED98BF6F3B4CCE615DCA3ED63CDB96823
 Filename: debs//dragonballzeppelin.deb
