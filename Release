@@ -1,8 +1,8 @@
-Origin: SirGlide's Repo
-Label: Ifusion's Official Repo
+Origin: Miayotlan's Repo
+Label: Miayotlan’s Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Ifusion Repo
+Description: Miayotlan’s Repo
