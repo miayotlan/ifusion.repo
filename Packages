@@ -1,15 +1,15 @@
 Package: com.dragonball11.sirglide
 Name: Dragon Ball 11 
 Version: 1.0
-Size: 4678250
+Size: 61849
 Architecture: iphoneos-arm
 Description: An Awesome Dragon Ball Theme for iOS
 Maintainer: Sirglide <sir.glide.83@gmail.com>
 Author: SamGuzman <sir.glide.83@gmail.com>
 Section: Themes
-MD5sum:59386bf57a5d2d6094a41b2fa75796cb
+MD5sum:421e05bd424635bab45d567079894062
 SHA1sum:10e19750b0d89f8cdb4811c1ed3da0e38e3618c3
-SHA256sum:688bdc40800a9056151e3aa80a4157476796c541e4dc0b4ec7ba2b9a7de64627
+SHA256sum:719afecbfa1ed5610a5f355935b4612df0cd7a8dbf3fc81881efa23513793a08
 Filename: debs//dragonball11.deb
 
 Package: com.goldengauntlet11.sirglide
