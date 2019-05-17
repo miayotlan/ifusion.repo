@@ -12,6 +12,21 @@ SHA1sum:10e19750b0d89f8cdb4811c1ed3da0e38e3618c3
 SHA256sum:719afecbfa1ed5610a5f355935b4612df0cd7a8dbf3fc81881efa23513793a08
 Filename: debs//dragonball11.deb
 
+Package: sgr.miayotlan.deadpool
+Name: Deadpool theme
+Version: 1.0
+Size: 14236244
+Architecture: iphoneos-arm
+Description: An Awesome Deadpool Theme for iOS
+Maintainer: Sirglide <sir.glide.83@gmail.com>
+Author: SamGuzman <sir.glide.83@gmail.com>
+Section: Themes
+SileoDepiction: https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/
+MD5sum:cca7ea87198cb5d1204974929eec3476
+SHA1sum:e0c20415c6ff757f7ff5a99e226f2d412137cd41
+SHA256sum:ce60144d9071e5a9f22d9b5a029daf324fe4466bffcbc85b899c258d14a28fc5
+Filename: debs//sgr.miayotlan.deadpool.deb
+
 Package: com.goldengauntlet11.sirglide
 Name: Golden Gauntlet 11 
 Version: 1.0
