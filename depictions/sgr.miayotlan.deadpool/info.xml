@@ -1,45 +1,45 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>sgr.miayotlan.deadpool</id>
 	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package></package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Ios deadpool theme for your device</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>TAn Ios theme for your iphone to be applied with your favorite theming engine.</description>
+		<description>It includes icons settings icons AE and dock.</description>
 		<description><![CDATA[
-		You can also have<br/> 
+		You can also have<br/>
 		a multi-line item.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description>It simply looks awesome</description>
+			<image>screenshot1.jpg</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description>i hope you like it as much as i do</description>
+			<image>screenshot2.jpg</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>First release</change>
+		<change>It has more than 130 icons</change>
+		<change>It has settings and AE</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>miayotlan.com</name>
+			<url>https://www.miayotlan.com</url>
+			<iconclass>fa fa-url</iconclass>
 		</link>
 	</links>
 </package>

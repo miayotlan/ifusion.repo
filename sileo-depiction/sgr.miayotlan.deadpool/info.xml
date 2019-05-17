@@ -10,36 +10,36 @@
 	<dependencies>
 		<package></package>
 	</dependencies>
-	<shortDescription>This is a deadpool theme</shortDescription>
+	<shortDescription>Ios deadpool theme for your device</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>TAn Ios theme for your iphone to be applied with your favorite theming engine.</description>
+		<description>It includes icons settings icons AE and dock.</description>
 		<description><![CDATA[
-		You can also have<br/> 
+		You can also have<br/>
 		a multi-line item.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is my third theme I hope you like it as much as I do</description>
+			<description>It simply looks awesome</description>
 			<image>screenshot1.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
-			<description>It looks awesome on your device</description>
+			<description>i hope you like it as much as i do</description>
 			<image>screenshot2.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>First release</change>
+		<change>It has more than 130 icons</change>
+		<change>It has settings and AE</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>miayotlan.com</name>
+			<url>https://www.miayotlan.com</url>
+			<iconclass>fa fa-url</iconclass>
 		</link>
 	</links>
 </package>
