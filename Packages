@@ -1,5 +1,5 @@
 Package: com.dragonball11.sirglide
-Name: Dragon Ball 11 
+Name: Dragon Ball 11
 Version: 1.0
 Size: 19358976
 Architecture: iphoneos-arm
@@ -42,7 +42,7 @@ SHA256sum:cbd69157a695ab936e01bb86e35f26baf7bd15ebbe6c61482f91c21baac1a100
 Filename: debs//goldengauntlet11.deb
 
 Package: com.dragonballzeppelin.sirglide
-Name: Dragon Ball Zeppelin Pack 1 
+Name: Dragon Ball Zeppelin Pack 1
 Version: 1.0
 Size: 509908
 Architecture: iphoneos-arm
