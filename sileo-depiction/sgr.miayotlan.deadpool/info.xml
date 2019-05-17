@@ -1,16 +1,16 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>she.miayotlan.deadpool</id>
 	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package></package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is a deadpool theme</shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
@@ -22,12 +22,12 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>This is my third theme I hope you like it as much as I do</description>
+			<image>screenshot1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>It looks awesome on your device</description>
+			<image>screenshot2.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
