@@ -24,7 +24,7 @@ Section: Themes
 SileoDepiction: https://miayotlan.github.io/ifusion.repo/sileo-depiction/deadpool
 MD5sum:cca7ea87198cb5d1204974929eec3476
 SHA1sum:e0c20415c6ff757f7ff5a99e226f2d412137cd41
-SHA256sum:ce60144d9071e5a9f22d9b5a029daf324fe4466bffcbc85b899c258d14a28fc5
+SHA256sum:569e7bf91f4e917c7b69a5d2f33b5068cf8fca719e74f753cfea337a38e98c6d
 Filename: debs//sgr.miayotlan.deadpool.deb
 
 Package: com.goldengauntlet11.sirglide
