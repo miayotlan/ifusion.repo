@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Reboot, Shutdown, Respring, and more easily",
+          "title": "An awesome Deadpool theme for your device",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -18,18 +18,18 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1.png"
+              "url": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot1.jpg",
+              "fullSizeURL": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot1.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2.png"
+              "url": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot2.jpg",
+              "fullSizeURL": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot2.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3.png"
+              "url": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot1.jpg",
+              "fullSizeURL": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot1.jpg"
             }
           ],
           "ipad": {
@@ -38,18 +38,18 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1pad.png",
-                "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss1pad.png"
+                "url": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot1.jpg",
+                "fullSizeURL": "https://beta.dave1482.com/sileohttps://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot1.jpg"
               },
               {
               "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2pad.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss2pad.png"
+              "url": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot2.jpg",
+              "fullSizeURL": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot2.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3pad.png",
-              "fullSizeURL": "https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/ss3pad.png"
+              "url": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot1.jpg",
+              "fullSizeURL": "https://miayotlan.github.io/ifusion.repo/sileo-depiction/sgr.miayotlan.deadpool/screenshots/screenshot1.jpg"
             }
             ],
             "class": "DepictionScreenshotView"
@@ -57,7 +57,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": " **BETA**\n\n**Supports iOS 3.0-iOS 12.1.2+**\n\nReboot, Shutdown, Respring, and Refresh SpringBoard without MobileSubstrate or Substitute!\n\nGoing into Safe Mode and entering Non-MobileSubstrate Mode by respringing requires MobileSubstrate, but it is not a requirement for PowerApp.",
+          "markdown": " **BETA**\n\n**Supports iOS 3.0-iOS 12.1.2+**\n\nIncludes more than 130 icons\n\nTodo setting icons.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
