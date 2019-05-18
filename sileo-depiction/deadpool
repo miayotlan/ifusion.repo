@@ -70,7 +70,7 @@
         },
         {
           "title": "Version",
-          "text": "5.0-beta0512191630",
+          "text": "1.0",
           "class": "DepictionTableTextView"
         },
         {
@@ -89,12 +89,12 @@
         },
         {
           "title": "Developer",
-          "text": "dave1482",
+          "text": "samguzman",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Contact Support",
-          "action": "depiction-https://beta.dave1482.com/sileoDepictions/com.dave1482.powerappbeta/support",
+          "action": "depiction-https://beta.dave1482.com/sileoDepictions/sgr.miayotlan/deadpool/support",
           "class": "DepictionTableButtonView"
         },
         {
@@ -102,7 +102,7 @@
           "class": "DepictionSpacerView"
         },
         {
-          "URL": "https://beta.dave1482.com/CydiaIcon.png",
+          "URL": "https://miayotlan.github.io/infusion.repo/CydiaIcon.png",
           "width": 44,
           "height": 44,
           "alignment": 1,
