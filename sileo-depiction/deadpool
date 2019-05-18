@@ -102,7 +102,7 @@
           "class": "DepictionSpacerView"
         },
         {
-          "URL": "https://miayotlan.github.io/infusion.repo/CydiaIcon.png",
+          "URL": "https://miayotlan.github.io/ifusion.repo/CydiaIcon.png",
           "width": 44,
           "height": 44,
           "alignment": 1,
@@ -120,18 +120,18 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 5.0-beta0512191630",
+          "title": "Version 1.0",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "* New Button Redesign",
+          "markdown": "* Initial released",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "* See Previous Changes from PowerApp v4.4.0 on Dynastic",
+          "markdown": "* No changes",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
@@ -144,18 +144,13 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "Version 4.2.1-beta0318191230",
+          "title": "Version 1.0",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "* Added iOS 8/9 support back (newest features\navailable on iOS 8/9 devices again!)\n\n**RECOMMENDED**\n\nTurn on Alerts in the app’s settings",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-3-18</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-5-17</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },
@@ -168,16 +163,6 @@
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
-        {
-          "markdown": "* Reintroduce Check for Update Feature\n* Moved to Dynastic Repo",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-3-17</small>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        }
       ],
       "class": "DepictionStackView"
     }
